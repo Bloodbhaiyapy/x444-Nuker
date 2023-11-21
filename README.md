@@ -3,7 +3,7 @@ x444, fastest nuker on discord written in py.
 ## Installation
 For compiled version:
 
-- Download latest version from [releases](https://github.com/notspeezy/x444-Nuker/releases)
+- Download latest version from [releases](https://github.com/notspeezy/Blood-Nuker/releases)
 - Extract all the content
 - Run x444.exe
 
@@ -12,7 +12,7 @@ For python version:
 - Install required modules from "requirements.txt"
 - Provide your bot token and channel/roles/messages content in config.json file
 - Provide your proxies (optional)
-- Run x444.py
+- Run Blood.py
 ## Todo
 - [x] Proxy supported HTTP/s [ip:port][user:pass@ip:port] formats
 - [ ] Nuke command (all together)
